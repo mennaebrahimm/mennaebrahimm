@@ -5,7 +5,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
        width="299"
        height="299"></p>
-🌟 About Me 
+ 
+<h3 align="left">About Me:</h3>
 
 - 🎓 Bachelor's Degree in **Computer Science**
 
