@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Menna Ebrahim</h1>
-<h3 align="center">Software Engineer</h3>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?&size=35&pause=1000&color=2DA44E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Menna+Ebrahim;Software+Engineer" alt="Typing Animation" />
+</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
        width="299"
